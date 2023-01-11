@@ -1,0 +1,15 @@
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\bin\Debug\net6.0\Part_FullTimeEmployee.exe
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\bin\Debug\net6.0\Part_FullTimeEmployee.deps.json
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\bin\Debug\net6.0\Part_FullTimeEmployee.runtimeconfig.json
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\bin\Debug\net6.0\Part_FullTimeEmployee.dll
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\bin\Debug\net6.0\Part_FullTimeEmployee.pdb
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.csproj.AssemblyReference.cache
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.AssemblyInfoInputs.cache
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.AssemblyInfo.cs
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.csproj.CoreCompileInputs.cache
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.dll
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\refint\Part_FullTimeEmployee.dll
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.pdb
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\Part_FullTimeEmployee.genruntimeconfig.cache
+C:\Users\SARAT CHANDRA\Desktop\AJAY\EmployeeProgram\Part_FullTimeEmployee\obj\Debug\net6.0\ref\Part_FullTimeEmployee.dll
