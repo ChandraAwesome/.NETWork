@@ -7,7 +7,7 @@
             // FibonacciSeries.Fibonac();
             //PerfectNumeber.Perfect();
             //PrimeNumber.Prime();
-            ReverseNumber.Reverse(245);
+           //everseNumber.Reverse(245);
         }
     }
 }
